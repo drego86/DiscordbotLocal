@@ -1,0 +1,102 @@
+
+
+******************************************************************************
+AdminLog started on 2020-11-16 at 16:57:38
+17:00:22 | Player "Survivor" is connected (id=gw_M6hFq-O51szdeWUK8xaxy6X6akUnZxavhiAmRWIo=)
+17:10:13 | Player "Survivor" (id=gw_M6hFq-O51szdeWUK8xaxy6X6akUnZxavhiAmRWIo= pos=<5640.2, 13126.7, 190.0>)[HP: 97.7725] hit by Infected into LeftLeg(8) for 6.75 damage (MeleeZombie_Heavy)
+17:10:15 | Player "Survivor" (id=gw_M6hFq-O51szdeWUK8xaxy6X6akUnZxavhiAmRWIo= pos=<5639.8, 13126.8, 190.0>)[HP: 95.635] hit by Infected into RightLeg(3) for 6.75 damage (MeleeZombie)
+17:17:04 | Player "Survivor"(id=gw_M6hFq-O51szdeWUK8xaxy6X6akUnZxavhiAmRWIo=) has been disconnected
+17:18:17 | Player "Survivor" is connected (id=gw_M6hFq-O51szdeWUK8xaxy6X6akUnZxavhiAmRWIo=)
+17:33:52 | Player "Drego" is connected (id=bzjMMZ0jl5mmwQZ22oOaPFgqgauB3uJTWBL22xDqxzM=)
+17:34:53 | Player "Drego"(id=bzjMMZ0jl5mmwQZ22oOaPFgqgauB3uJTWBL22xDqxzM=) has been disconnected
+17:43:25 | Player "Drego" is connected (id=bzjMMZ0jl5mmwQZ22oOaPFgqgauB3uJTWBL22xDqxzM=)
+17:52:19 | Player "Survivor" (id=gw_M6hFq-O51szdeWUK8xaxy6X6akUnZxavhiAmRWIo= pos=<8028.8, 12742.7, 113.9>)[HP: 97.525] hit by Infected into RightArm(17) for 7.5 damage (MeleeZombie)
+17:52:21 | Player "Survivor" (id=gw_M6hFq-O51szdeWUK8xaxy6X6akUnZxavhiAmRWIo= pos=<8028.9, 12742.3, 113.9>)[HP: 90.775] hit by Infected into Torso(1) for 6.75 damage (MeleeZombie)
+17:54:33 | Player "Survivor" (id=gw_M6hFq-O51szdeWUK8xaxy6X6akUnZxavhiAmRWIo= pos=<8020.6, 12671.2, 115.4>)[HP: 92.2612] hit by Infected into LeftArm(18) for 7.5 damage (MeleeZombie)
+17:54:35 | Player "Survivor" (id=gw_M6hFq-O51szdeWUK8xaxy6X6akUnZxavhiAmRWIo= pos=<8019.1, 12674.4, 114.9>)[HP: 89.8762] hit by Infected into LeftArm(18) for 7.5 damage (MeleeZombie)
+17:59:33 | Player "Survivor" (id=gw_M6hFq-O51szdeWUK8xaxy6X6akUnZxavhiAmRWIo= pos=<7989.8, 12625.3, 121.2>)[HP: 87.6783] hit by FallDamage
+18:07:00 | Player "Drego" (id=bzjMMZ0jl5mmwQZ22oOaPFgqgauB3uJTWBL22xDqxzM= pos=<3714.6, 8991.9, 311.0>)[HP: 93.25] hit by Infected into Torso(1) for 6.75 damage (MeleeZombie)
+18:07:46 | Player "Drego" (id=bzjMMZ0jl5mmwQZ22oOaPFgqgauB3uJTWBL22xDqxzM= pos=<3705.3, 8964.2, 311.0>)[HP: 92.5867] hit by Infected into LeftLeg(8) for 6.375 damage (MeleeZombie)
+18:07:48 | Player "Drego" (id=bzjMMZ0jl5mmwQZ22oOaPFgqgauB3uJTWBL22xDqxzM= pos=<3702.0, 8963.5, 311.0>)[HP: 90.4829] hit by Infected into LeftLeg(8) for 6.375 damage (MeleeZombie_Heavy)
+18:16:56 | Player "Drego" (id=bzjMMZ0jl5mmwQZ22oOaPFgqgauB3uJTWBL22xDqxzM= pos=<2044.0, 11348.9, 250.5>)[HP: 93.25] hit by Infected into Torso(1) for 6.75 damage (MeleeZombie)
+18:19:38 | Player "Survivor" (id=gw_M6hFq-O51szdeWUK8xaxy6X6akUnZxavhiAmRWIo= pos=<7634.2, 12639.1, 119.7>)[HP: 93.25] hit by Infected into Torso(1) for 6.75 damage (MeleeZombie_Heavy)
+18:21:27 | Player "Survivor (2)" is connected (id=ymDQMn6IljtT3qq4jEuVtBb3fn4vUirOwj8F6vTnuKU=)
+18:26:57 | Player "Survivor"(id=gw_M6hFq-O51szdeWUK8xaxy6X6akUnZxavhiAmRWIo=) has been disconnected
+18:29:51 | Player "Drego" (id=bzjMMZ0jl5mmwQZ22oOaPFgqgauB3uJTWBL22xDqxzM= pos=<3805.9, 8935.3, 311.0>)[HP: 97.8962] hit by Infected into RightLeg(3) for 6.375 damage (MeleeZombie)
+18:34:38 | Player "Survivor" is connected (id=mbQeULdWD_3coHSwVF9Ir_1iZz5-7a5VTZKo9zmmCwg=)
+18:42:00 | Player "Drego" (id=bzjMMZ0jl5mmwQZ22oOaPFgqgauB3uJTWBL22xDqxzM= pos=<3696.6, 8270.6, 304.3>) placed Sea Chest
+18:42:49 | Player "Survivor (2)" (id=ymDQMn6IljtT3qq4jEuVtBb3fn4vUirOwj8F6vTnuKU= pos=<13390.9, 5415.9, 5.8>)[HP: 97.7725] hit by Infected into LeftLeg(8) for 6.75 damage (MeleeZombie_Heavy)
+18:42:51 | Player "Survivor (2)" (id=ymDQMn6IljtT3qq4jEuVtBb3fn4vUirOwj8F6vTnuKU= pos=<13391.3, 5416.0, 5.8>)[HP: 95.3875] hit by Infected into RightArm(17) for 7.5 damage (MeleeZombie)
+18:42:53 | Player "Survivor (2)" (id=ymDQMn6IljtT3qq4jEuVtBb3fn4vUirOwj8F6vTnuKU= pos=<13391.3, 5416.1, 5.8>)[HP: 93.2501] hit by Infected into LeftLeg(8) for 6.75 damage (MeleeZombie_Heavy)
+18:42:55 | Player "Survivor (2)" (id=ymDQMn6IljtT3qq4jEuVtBb3fn4vUirOwj8F6vTnuKU= pos=<13391.3, 5416.3, 5.8>)[HP: 90.7751] hit by Infected into RightArm(17) for 7.5 damage (MeleeZombie_Heavy)
+18:42:57 | Player "Survivor (2)" (id=ymDQMn6IljtT3qq4jEuVtBb3fn4vUirOwj8F6vTnuKU= pos=<13391.7, 5416, 5.8>)[HP: 88.6376] hit by Infected into LeftLeg(8) for 6.75 damage (MeleeZombie)
+18:44:28 | Player "Survivor (3)" is connected (id=exbwsyYwuSj5TxUwptPR8C1iMjknkftAkIM9-3NbynI=)
+18:44:49 | Player "Survivor (2)" (id=ymDQMn6IljtT3qq4jEuVtBb3fn4vUirOwj8F6vTnuKU= pos=<13416.6, 5376.6, 4.5>)[HP: 89.4936] hit by Infected into RightArm(17) for 7.5 damage (MeleeZombie_Heavy)
+18:44:51 | Player "Survivor (2)" (id=ymDQMn6IljtT3qq4jEuVtBb3fn4vUirOwj8F6vTnuKU= pos=<13416.6, 5376.6, 4.5>)[HP: 82.8336] hit by Infected into Torso(1) for 6.75 damage (MeleeZombie)
+18:44:53 | Player "Survivor (2)" (id=ymDQMn6IljtT3qq4jEuVtBb3fn4vUirOwj8F6vTnuKU= pos=<13416.6, 5376.6, 4.5>)[HP: 80.3586] hit by Infected into RightArm(17) for 7.5 damage (MeleeZombie)
+18:44:54 | Player "Survivor (2)" (id=ymDQMn6IljtT3qq4jEuVtBb3fn4vUirOwj8F6vTnuKU= pos=<13416.6, 5376.6, 4.5>)[HP: 73.6986] hit by Infected into Torso(1) for 6.75 damage (MeleeZombie)
+18:44:55 | Player "Survivor (2)" (id=ymDQMn6IljtT3qq4jEuVtBb3fn4vUirOwj8F6vTnuKU= pos=<13416.6, 5376.6, 4.5>)[HP: 71.2236] hit by Infected into LeftArm(18) for 7.5 damage (MeleeZombie)
+18:44:57 | Player "Survivor (2)" (id=ymDQMn6IljtT3qq4jEuVtBb3fn4vUirOwj8F6vTnuKU= pos=<13416.6, 5376.6, 4.5>)[HP: 69.084] hit by Infected into RightLeg(3) for 6.75 damage (MeleeZombie_Heavy)
+18:44:58 | Player "Survivor (2)" (id=ymDQMn6IljtT3qq4jEuVtBb3fn4vUirOwj8F6vTnuKU= pos=<13416.6, 5376.6, 4.5>)[HP: 66.609] hit by Infected into RightArm(17) for 7.5 damage (MeleeZombie_Heavy)
+18:45:00 | Player "Survivor (2)" (id=ymDQMn6IljtT3qq4jEuVtBb3fn4vUirOwj8F6vTnuKU= pos=<13416.6, 5376.6, 4.5>)[HP: 59.9447] hit by Infected into Torso(1) for 6.75 damage (MeleeZombie)
+18:45:00 | Player "Survivor (2)" (id=ymDQMn6IljtT3qq4jEuVtBb3fn4vUirOwj8F6vTnuKU= pos=<13416.6, 5376.6, 4.5>)[HP: 53.1947] hit by Infected into Torso(1) for 6.75 damage (MeleeZombie)
+18:45:02 | Player "Survivor (2)" (id=ymDQMn6IljtT3qq4jEuVtBb3fn4vUirOwj8F6vTnuKU= pos=<13416.6, 5376.6, 4.5>)[HP: 46.4447] hit by Infected into Torso(1) for 6.75 damage (MeleeZombie_Heavy)
+18:45:02 | Player "Survivor (2)" (id=ymDQMn6IljtT3qq4jEuVtBb3fn4vUirOwj8F6vTnuKU= pos=<13416.7, 5376.7, 4.5>)[HP: 39.6947] hit by Infected into Torso(1) for 6.75 damage (MeleeZombie_Heavy)
+18:45:03 | Player "Survivor (2)" (id=ymDQMn6IljtT3qq4jEuVtBb3fn4vUirOwj8F6vTnuKU= pos=<13416.7, 5376.7, 4.5>)[HP: 37.3033] hit by Infected into LeftArm(18) for 7.5 damage (MeleeZombie)
+18:45:04 | Player "Survivor (2)" (id=ymDQMn6IljtT3qq4jEuVtBb3fn4vUirOwj8F6vTnuKU= pos=<13416.7, 5376.7, 4.5>)[HP: 30.5533] hit by Infected into Torso(1) for 6.75 damage (MeleeZombie_Heavy)
+18:45:05 | Player "Survivor (2)" (id=ymDQMn6IljtT3qq4jEuVtBb3fn4vUirOwj8F6vTnuKU= pos=<13416.8, 5376.8, 4.5>)[HP: 28.0783] hit by Infected into LeftArm(18) for 7.5 damage (MeleeZombie_Heavy)
+18:45:06 | Player "Survivor (2)" (id=ymDQMn6IljtT3qq4jEuVtBb3fn4vUirOwj8F6vTnuKU= pos=<13416.8, 5376.8, 4.5>)[HP: 21.4098] hit by Infected into Torso(1) for 6.75 damage (MeleeZombie)
+18:45:07 | Player "Survivor (2)" (id=ymDQMn6IljtT3qq4jEuVtBb3fn4vUirOwj8F6vTnuKU= pos=<13416.8, 5376.8, 4.5>)[HP: 13.9098] hit by Infected into Torso(1) for 7.5 damage (MeleeZombie)
+18:45:07 | Player "Survivor (2)" (id=ymDQMn6IljtT3qq4jEuVtBb3fn4vUirOwj8F6vTnuKU= pos=<13416.8, 5376.8, 4.5>)[HP: 6.40978] hit by Infected into Torso(1) for 7.5 damage (MeleeZombie_Heavy)
+18:45:08 | Player "Survivor (2)" (id=ymDQMn6IljtT3qq4jEuVtBb3fn4vUirOwj8F6vTnuKU= pos=<13416.8, 5376.8, 4.5>)[HP: 4.18228] hit by Infected into LeftLeg(8) for 6.75 damage (MeleeZombie_Heavy)
+18:45:08 | Player "Survivor (2)" (id=ymDQMn6IljtT3qq4jEuVtBb3fn4vUirOwj8F6vTnuKU= pos=<13416.8, 5376.8, 4.5>) is unconscious
+18:45:09 | Player "Survivor (2)" (DEAD) (id=ymDQMn6IljtT3qq4jEuVtBb3fn4vUirOwj8F6vTnuKU= pos=<13417.5, 5377.3, 4.4>)[HP: 0] hit by Infected into Torso(1) for 7.5 damage (MeleeZombie_Heavy)
+18:45:09 | Player "Survivor (2)" (DEAD) (id=ymDQMn6IljtT3qq4jEuVtBb3fn4vUirOwj8F6vTnuKU= pos=<13417.5, 5377.3, 4.4>) killed by ZmbM_Jacket_blue
+18:45:21 | Player "Survivor (4)" is connected (id=N8lifDkC1YUZ3ffRJ_V2pS2q5w-YOwoDbaWU4UgPjYM=)
+18:47:05 | Player "Survivor (2)"(id=ymDQMn6IljtT3qq4jEuVtBb3fn4vUirOwj8F6vTnuKU=) has been disconnected
+18:49:21 | Player "Survivor (2)" is connected (id=ymDQMn6IljtT3qq4jEuVtBb3fn4vUirOwj8F6vTnuKU=)
+18:50:52 | Player "Survivor (4)"(id=N8lifDkC1YUZ3ffRJ_V2pS2q5w-YOwoDbaWU4UgPjYM=) has been disconnected
+18:52:54 | Player "Survivor (4)" is connected (id=N8lifDkC1YUZ3ffRJ_V2pS2q5w-YOwoDbaWU4UgPjYM=)
+18:55:28 | Player "Drego" (id=bzjMMZ0jl5mmwQZ22oOaPFgqgauB3uJTWBL22xDqxzM= pos=<2547.0, 5047, 193.8>)[HP: 97.8962] hit by Infected into LeftLeg(8) for 6.375 damage (MeleeZombie)
+18:55:48 | Player "Drego" (id=bzjMMZ0jl5mmwQZ22oOaPFgqgauB3uJTWBL22xDqxzM= pos=<2542.1, 5031.4, 194.4>)[HP: 91.7764] hit by Infected into Torso(1) for 6.75 damage (MeleeZombie_Heavy)
+18:57:19 | Player "Drego"(id=bzjMMZ0jl5mmwQZ22oOaPFgqgauB3uJTWBL22xDqxzM=) has been disconnected
+18:57:30 | Player "Drego" is connected (id=bzjMMZ0jl5mmwQZ22oOaPFgqgauB3uJTWBL22xDqxzM=)
+19:00:10 | Player "Survivor (2)" (id=ymDQMn6IljtT3qq4jEuVtBb3fn4vUirOwj8F6vTnuKU= pos=<10112.9, 1856.0, 6.3>)[HP: 97.525] hit by Infected into RightArm(17) for 7.5 damage (MeleeZombie)
+19:00:12 | Player "Survivor (2)" (id=ymDQMn6IljtT3qq4jEuVtBb3fn4vUirOwj8F6vTnuKU= pos=<10113.6, 1854.7, 6.1>)[HP: 95.05] hit by Infected into RightArm(17) for 7.5 damage (MeleeZombie)
+19:00:13 | Player "Survivor (2)" (id=ymDQMn6IljtT3qq4jEuVtBb3fn4vUirOwj8F6vTnuKU= pos=<10113.6, 1854.5, 6.1>)[HP: 92.665] hit by Infected into LeftArm(18) for 7.5 damage (MeleeZombie)
+19:00:46 | Player "Survivor"(id=mbQeULdWD_3coHSwVF9Ir_1iZz5-7a5VTZKo9zmmCwg=) has been disconnected
+19:02:45 | Player "Survivor (3)" (id=exbwsyYwuSj5TxUwptPR8C1iMjknkftAkIM9-3NbynI= pos=<13247.4, 3970.0, 4.9>)[HP: 3.19049] hit by Infected into LeftLeg(8) for 7.5 damage (MeleeZombie_Heavy)
+19:06:46 | Player "Survivor (4)" (id=N8lifDkC1YUZ3ffRJ_V2pS2q5w-YOwoDbaWU4UgPjYM= pos=<8125.4, 10252.7, 395.6>)[HP: 80] hit by Wolf into Head(0) for 10 damage (MeleeWolf)
+19:07:12 | Player "Survivor (4)" (id=N8lifDkC1YUZ3ffRJ_V2pS2q5w-YOwoDbaWU4UgPjYM= pos=<8126.6, 10217.4, 398.8>)[HP: 60.7335] hit by Wolf into Head(0) for 10 damage (MeleeWolf)
+19:07:15 | Player "Survivor (4)" (id=N8lifDkC1YUZ3ffRJ_V2pS2q5w-YOwoDbaWU4UgPjYM= pos=<8130.7, 10220.4, 398.5>)[HP: 43.8043] hit by Wolf into Torso(16) for 17 damage (MeleeWolf)
+19:07:16 | Player "Survivor (4)" (id=N8lifDkC1YUZ3ffRJ_V2pS2q5w-YOwoDbaWU4UgPjYM= pos=<8131.2, 10221.2, 398.5>)[HP: 41.217] hit by Wolf into LeftFoot(13) for 16 damage (MeleeWolf)
+19:07:22 | Player "Survivor (4)" (id=N8lifDkC1YUZ3ffRJ_V2pS2q5w-YOwoDbaWU4UgPjYM= pos=<8131.7, 10231.6, 397.2>)[HP: 34.7413] hit by Wolf into RightArm(17) for 20 damage (MeleeWolf)
+19:07:24 | Player "Drego" (id=bzjMMZ0jl5mmwQZ22oOaPFgqgauB3uJTWBL22xDqxzM= pos=<2556.1, 5088.8, 194.2>)[HP: 97.8962] hit by Infected into RightLeg(3) for 6.375 damage (MeleeZombie_Heavy)
+19:07:24 | Player "Survivor (4)" (id=N8lifDkC1YUZ3ffRJ_V2pS2q5w-YOwoDbaWU4UgPjYM= pos=<8128.4, 10232.6, 397.1>)[HP: 17.7413] hit by Wolf into Torso(42) for 17 damage (MeleeWolf)
+19:07:26 | Player "Drego" (id=bzjMMZ0jl5mmwQZ22oOaPFgqgauB3uJTWBL22xDqxzM= pos=<2551.7, 5091.4, 193.8>)[HP: 95.4212] hit by Infected into RightArm(17) for 7.5 damage (MeleeZombie)
+19:07:28 | Player "Survivor (4)" (id=N8lifDkC1YUZ3ffRJ_V2pS2q5w-YOwoDbaWU4UgPjYM= pos=<8124.3, 10230.7, 397.3>)[HP: 11.1967] hit by Wolf into RightArm(17) for 20 damage (MeleeWolf)
+19:07:29 | Player "Drego" (id=bzjMMZ0jl5mmwQZ22oOaPFgqgauB3uJTWBL22xDqxzM= pos=<2560.6, 5097.1, 193.9>)[HP: 93.0363] hit by Infected into LeftArm(18) for 7.5 damage (MeleeZombie)
+19:07:30 | Player "Drego" (id=bzjMMZ0jl5mmwQZ22oOaPFgqgauB3uJTWBL22xDqxzM= pos=<2561.0, 5098.1, 194.0>)[HP: 90.65] hit by Infected into RightArm(17) for 7.5 damage (MeleeZombie)
+19:07:38 | Player "Survivor (4)" (DEAD) (id=N8lifDkC1YUZ3ffRJ_V2pS2q5w-YOwoDbaWU4UgPjYM= pos=<8129.9, 10220.5, 398.5>)[HP: 0] hit by Wolf into Torso(14) for 17 damage (MeleeWolf)
+19:07:38 | Player "Survivor (4)" (DEAD) (id=N8lifDkC1YUZ3ffRJ_V2pS2q5w-YOwoDbaWU4UgPjYM= pos=<8129.9, 10220.5, 398.5>) killed by Animal_CanisLupus_White
+19:07:40 | Player "Drego" (id=bzjMMZ0jl5mmwQZ22oOaPFgqgauB3uJTWBL22xDqxzM= pos=<2604.7, 5092.4, 195.0>)[HP: 88.7972] hit by Infected into RightLeg(3) for 6.375 damage (MeleeZombie)
+19:09:26 | Player "Drego" (id=bzjMMZ0jl5mmwQZ22oOaPFgqgauB3uJTWBL22xDqxzM= pos=<2569.3, 5086.4, 198.1>)[HP: 90.7] hit by FallDamage
+19:11:31 | Player "Drego" (id=bzjMMZ0jl5mmwQZ22oOaPFgqgauB3uJTWBL22xDqxzM= pos=<2630.5, 5101.0, 197.5>)[HP: 91.3027] hit by Infected into RightLeg(3) for 6.375 damage (MeleeZombie)
+19:12:42 | Player "Drego" (id=bzjMMZ0jl5mmwQZ22oOaPFgqgauB3uJTWBL22xDqxzM= pos=<2624.5, 5093.5, 199.2>)[HP: 90.7669] hit by Infected into LeftLeg(8) for 6.375 damage (MeleeZombie)
+19:19:41 | Player "Drego" (id=bzjMMZ0jl5mmwQZ22oOaPFgqgauB3uJTWBL22xDqxzM= pos=<2755.4, 5281.9, 204.4>)[HP: 97.5174] hit by Infected into RightLeg(3) for 6.375 damage (MeleeZombie)
+19:22:07 | Player "Survivor (4)" (id=N8lifDkC1YUZ3ffRJ_V2pS2q5w-YOwoDbaWU4UgPjYM= pos=<7944.5, 3111.8, 7.1>)[HP: 93.625] hit by Infected into Torso(1) for 6.375 damage (MeleeZombie)
+19:23:08 | Player "Survivor (3)"(id=exbwsyYwuSj5TxUwptPR8C1iMjknkftAkIM9-3NbynI=) has been disconnected
+19:24:32 | Player "Drego" (id=bzjMMZ0jl5mmwQZ22oOaPFgqgauB3uJTWBL22xDqxzM= pos=<2569.4, 5083.6, 198.1>)[HP: 97.525] hit by Infected into LeftArm(18) for 7.5 damage (MeleeZombie)
+19:24:33 | Player "Drego" (id=bzjMMZ0jl5mmwQZ22oOaPFgqgauB3uJTWBL22xDqxzM= pos=<2570.2, 5084.5, 198.1>)[HP: 95.4212] hit by Infected into RightLeg(3) for 6.375 damage (MeleeZombie_Heavy)
+19:25:40 | Player "Drego" (id=bzjMMZ0jl5mmwQZ22oOaPFgqgauB3uJTWBL22xDqxzM= pos=<2581.1, 5088.2, 200.0>)[HP: 94.4519] hit by Infected into LeftArm(18) for 7.5 damage (MeleeZombie)
+19:26:48 | Player "Survivor (2)" (DEAD) (id=ymDQMn6IljtT3qq4jEuVtBb3fn4vUirOwj8F6vTnuKU= pos=<8471, 2458.0, 2.9>) died. Stats> Water: 456.12 Energy: 20.9059 Bleed sources: 0
+19:26:50 | Player "Survivor (4)" (id=N8lifDkC1YUZ3ffRJ_V2pS2q5w-YOwoDbaWU4UgPjYM= pos=<8071.3, 3278.8, 6.0>)[HP: 93.625] hit by Infected into Torso(1) for 6.375 damage (MeleeZombie_Heavy)
+19:27:14 | Player "Survivor (4)" (id=N8lifDkC1YUZ3ffRJ_V2pS2q5w-YOwoDbaWU4UgPjYM= pos=<8083.5, 3260.4, 6.0>)[HP: 91.8702] hit by Infected into LeftArm(18) for 7.5 damage (MeleeZombie_Heavy)
+19:27:18 | Player "Survivor (4)" (id=N8lifDkC1YUZ3ffRJ_V2pS2q5w-YOwoDbaWU4UgPjYM= pos=<8084.8, 3260.2, 6.0>)[HP: 89.7327] hit by Infected into RightLeg(3) for 6.75 damage (MeleeZombie)
+19:28:34 | Player "Survivor (2)"(id=ymDQMn6IljtT3qq4jEuVtBb3fn4vUirOwj8F6vTnuKU=) has been disconnected
+19:29:25 | Player "Survivor (4)"(id=N8lifDkC1YUZ3ffRJ_V2pS2q5w-YOwoDbaWU4UgPjYM=) has been disconnected
+19:30:20 | Player "Drego" (id=bzjMMZ0jl5mmwQZ22oOaPFgqgauB3uJTWBL22xDqxzM= pos=<2767.1, 5338.6, 206.6>)[HP: 93.25] hit by Infected into Torso(1) for 6.75 damage (MeleeZombie)
+19:33:32 | Player "Drego"(id=bzjMMZ0jl5mmwQZ22oOaPFgqgauB3uJTWBL22xDqxzM=) has been disconnected
+
+
+**********************************EOF****************************************

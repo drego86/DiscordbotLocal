@@ -1,0 +1,70 @@
+Ammobox container-1 hour
+Ammo loose/box -1 hour
+Animal Pelts - N/A
+Backpacks - 1 hour
+Barbed/Metal wire and plates - 0
+Barrels - 0
+Burlap Sack - 0
+Cable reel - 0
+Car/truck battery - 1 hour
+Car Radiator - 1 hour
+Chemlights - 0
+Clothes - 1 hour
+Combo Locks - 0
+Compass -1 hour
+Contruction light - 0
+Duct Tape - 0
+Electronic Repairkit - 0
+Epoxy - 0
+Fabric - 0
+Field Radio - 1 hour
+Fence - N/A
+Fireplace - N/A
+Flags - 0
+Food - 15 minutes
+Fruits/Veggies - 0
+Garden Lime - 1 hour
+Garden Plot - N/A
+Ghillie - 0
+Grenades - 1 hour
+Guns - 15 minutes
+Gun Accesseries - 1 hour
+Gun Magazines - 15 minutes
+Gun Optics - 1 hour
+Hunting Scope - 1 hour
+Jerry can - 0
+Knives - 1 hour
+Medical Supplies - 0
+Nail Box - 0
+NVG/Headstrap - 1 hour
+Pickaxe - 0
+Pliers - 0
+Portable Stove - 0
+Power generator - 0
+Propane gas cans - 0
+Protector case - 0
+PU Scope - 1 hour
+Screwdriver - 0
+Seachest - 0
+Shelter - N/A
+Shovel - 0
+Sledge Hammer - 0
+Soda/Kvass - 15 minutes
+Spark Plug - 0
+Splint - N/A
+Stone Oven - N/A
+Traps - 0
+Teddy Bear - 1 hour
+Tents - 12 hours
+Tools - 0
+Underground stashes - N/A
+Vehicle body parts - 0
+Vehicle Wheels - 1 hour
+Vehicles - 1 hour
+Watch tower - N/A
+Weapon Cleaning kit - 15 minutes
+Whetstone - 0
+Wood axe - 0
+Wooden crate - N/A
+Wrench - 0
+9V battery - 0

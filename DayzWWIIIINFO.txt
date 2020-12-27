@@ -1,0 +1,11 @@
+-Helicopter crashes occur more frequently. 
+-High end weapons from helicoptor crashes are not limited by a number in the central loot economy. You'll always have a chance to find something good.
+-Medical and fire fighter equipment will only spawn in medical/ fire buildings respectively. 
+-Vehicles will spawn with all the required parts to run. You will need to make sure all the fluids are topped off.
+-Extra parts for vehicles such as batteries or radiators will spawn at gas stations or any industrial area.
+-Increased the amount of loot that can spawn in buildings.
+-Increased the amount of animals that you can encounter.
+-Server will shutdown and restart every 4 hours.
+-Tents are rare and found in out of the way locations.
+-The gold deagle is a rare drop on random city zombies.
+-The camo Mosin is a rare drop on hunter zombies that have a hunter backpack

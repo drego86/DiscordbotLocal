@@ -1,0 +1,70 @@
+Ammobox container-48 hours
+Ammo loose/box -3 hours
+Animal Pelts - 3 hours
+Backpacks - 48 hours
+Barbed/Metal wire and plates - 1 hour
+Barrels - 45 days
+Burlap Sack -2 hours
+Cable reel - 7 days
+Car battery - 1 day
+Car Radiator - 1 day
+Chemlights - 1 hour
+Clothes - 1 hour
+Combo Locks - 1 hour
+Compass -1 hour
+Contruction light - 7 days
+Duct Tape - 2 hours
+Electronic Repairkit - 3 hours
+Epoxy - 3 hours
+Fabric - 3 hours
+Field Radio - 1 hour
+Fence - 7 days
+Fireplace - 3 hours
+Flags - 1 day
+Food - 2 hours
+Fruits/Veggies - 1 hour
+Garden Lime - 1 hours
+Garden Plot - 6 hours
+Ghillie - 2 hours
+Grenades - 2 hours
+Guns - 3 hours 
+Gun Accesseries - 1 hour
+Gun Magazines - 3 hours
+Gun Optics - 3 hours
+Hunting Scope - 3 hours
+Jerry can - 1 hour
+Knives - 1 hour
+Medical Supplies - 3 hours
+Nail Box - 1 hour
+NVG/Headstrap - 4 hours
+Pickaxe -1 hour
+Pliers - 1 hour
+Portable Stove - 1 hour
+Power generator - 7 days
+Propane gas cans - 1 hour
+Protector case - 7 days
+PU Scope - 3 hours
+Screwdriver - 1 hour
+Seachest - 7 days
+Shelter - 4 hours
+Shovel - 2 hours
+Sledge Hammer - 1 hour
+Soda/Kvass - 1 hour
+Spark Plug -1 hour
+Splint - 4 hours
+Stone Oven - 7 days
+Traps - 7 days
+Teddy Bear - 1 hour
+Tents - 7 days
+Tools - 3 hours
+Underground stashes - 7 days
+Vehicle body parts - 3 hours
+Vehicle Wheels - 3 hours
+Vehicles - 7 days
+Watch tower - 7 days
+Weapon Cleaning kit - 2 hours
+Whetstone - 2 hours
+Wood axe - 1 hour
+Wooden crate - 7 days
+Wrench - 1 hour
+9V battery - 2 hours
