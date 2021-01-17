@@ -8,5 +8,4 @@ module.exports = {
   Respawntimes: require('./respawntimes'),
   Serverinfo: require('./serverinfo'),
   Rules: require('./rules'),
-  Playercount: require('./playercount'),
 };
