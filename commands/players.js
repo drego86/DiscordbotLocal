@@ -4,7 +4,7 @@ module.exports = {
   cooldown: 5,
   execute(msg, args) {
   const fs = require("fs");
-//var output;
+var players;
 const output =[];
 let file = fs.readFileSync("DayZServer_x64.ADM", "utf8");
 let arr = file.split(/\r?\n/);
@@ -16,6 +16,7 @@ arr.forEach((line, idx)=> {
 	str=str.replace(/\s*\(.*?\)\s*/g, '');
 	//str +="\n";
 	output.push(str);
+	players +=1;
 {
 // s = s.substring(1);
 }
@@ -24,7 +25,8 @@ arr.forEach((line, idx)=> {
 	//msg.channel.send((idx+1)+':'+ line);
     }
 });
-	//msg.author.send(output, { split: true });
+	if(players==0)
+	output.push("There are no players currently online!");
 	msg.channel.send(output, { split: true });
 	//msg.channel.send(line);
   },
